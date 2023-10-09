@@ -1,0 +1,39 @@
+/*
+MY COLOR PALETTE
+Color 1 - #F9DC5C
+Color 2 - #D90368
+Color 3 - #FF9B71
+Color 4 - #00A676
+Color 5 - #3C91E6
+*/
+
+body { 
+    background-color:#3C91E6;
+    text-align:center;
+}
+
+button {
+background-color:#FF9B71;
+color:#D90368;
+font-family:serif;
+font-size:20px;
+width:200px;
+padding:10px;
+margin-top:50px;
+border:none; 
+border-radius:8px
+}
+
+button:hover {
+    background-color:#F9DC5C;
+    
+}
+
+h1 { 
+
+font-family: 'Cormorant', serif;
+}
+
+h2 {
+ font-family:'DM Serif Display',serif;   
+}
