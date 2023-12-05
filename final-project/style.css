@@ -1,0 +1,42 @@
+@media{
+
+
+img {
+width:100%;
+}
+#topper{
+    height:400px; 
+    background-image:url(waiting%20room%20pic%20.jpeg); 
+    background-size:cover; 
+    background-position: 40% 20%; 
+    
+}
+h1{
+    font-weight:bold;}
+h2{
+font-size:18px;
+}
+
+h3{
+font-size: 11px;
+font-weight:bold; 
+}
+ 
+
+}
+
+#caption{
+font-size:13px;
+}
+
+#quote{
+font-size:45px; 
+}
+@media (min-width:576px) {
+}
+
+
+
+@media (min-width:768px) {
+    
+}
