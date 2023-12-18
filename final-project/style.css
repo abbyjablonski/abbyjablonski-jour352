@@ -12,31 +12,122 @@ width:100%;
     
 }
 h1{
-    font-weight:bold;}
+    font-weight:bold;
+font-family: 'Outfit', sans-serif;
+text-align: center;}
+
 h2{
 font-size:18px;
+font-family: 'Poppins', sans-serif;
+text-align: center;
 }
 
 h3{
 font-size: 11px;
-font-weight:bold; 
+font-weight:bold;
+font-family: 'Outfit', sans-serif;
+text-align:center;
 }
  
-
-}
+    #content{
+font-family: 'Poppins', sans-serif;
+    }
+    
+    #pillgraphic{
+    width:100%;
+    }
+    
+    
+    #articlegraph{
+    width:100%;
+    }
 
 #caption{
 font-size:13px;
+font-family: 'Outfit', sans-serif;
+color:gray;
+text-align:center;
+
 }
 
 #quote{
-font-size:45px; 
-}
-@media (min-width:576px) {
+font-size:40px; 
+    font-family: 'Poppins', sans-serif;
+    text-align:center;}
+    
+
+
+#graphcaption{
+    font-size:13px;
+color:gray;
+font-family: 'Outfit', sans-serif;
+text-align:center;}
+
+
+#photo2{
+font-size:13px;
+font-family: 'Outfit', sans-serif;
+color:gray;
+width:530px;
+text-align:center;}
+
+a{
+color:black;
 }
 
+#photo3{
+font-size:13px;
+font-family: 'Outfit', sans-serif;
+color:gray; 
+width:485px;
+text-align:center;
+
+}
+
+@media (min-width:576px) {
+    
+    
+    
+#pillgraphic{
+    width: 600px;
+    margin:auto;}
+    
+    #photo2{
+    width:600px;
+    }
+#articlegraph{
+    width:600px;}
+
+    #photo3{
+    width:580px;
+    margin: auto; 
+    }
+    
+    }
+    
+     
 
 
 @media (min-width:768px) {
+
+#pillgraphic{
+    width: 800px;
+    margin:0px 200px 0px 300px;}
+    
+#articlegraph{
+    width: 820px;
+    margin:0px 220px 0px 320px;}
+ 
+
+    #photo2{
+    width:800px;
+   }
+    
+    #photo3{
+    width:800px;
+     }
+
+
+
     
 }
